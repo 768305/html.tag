@@ -1,0 +1,64 @@
+*{
+    margin:0px;
+}
+.alpushup{
+    float: left;
+}
+body{
+    background: rgb(255, 255, 255);
+}
+
+.heading1{
+    color:brown;
+    font-size: 20px;
+}
+.heading2{
+    color:#111;
+    font-size: 20px;
+ 
+}
+.heading3{
+    color:#111;
+    font-size: 17px;
+    word-spacing: 4px;
+
+}
+.paragraph1{
+    word-spacing: 5px;
+}
+
+.button1{
+    background: brown;
+    max-width: 100px;
+    height:30px;
+    border-radius: 20px;
+    border:0.1px solid brown;
+}
+.Josh-peters{
+    float: right;
+    width: 50%;
+    height: 230px;
+    position: relative;
+}
+img{
+    float:right;
+    margin-top:45px ;
+    margin-right:25px ;
+    border-radius: 50px;
+    border:1px dotted brown;
+
+}
+.paragraph2{
+    position: absolute;
+    top:68%;
+    left:75%;
+  
+}
+
+.main-down{
+    margin-left: 10px;
+}
+.heading4{
+
+    font-size: 40px;
+}
